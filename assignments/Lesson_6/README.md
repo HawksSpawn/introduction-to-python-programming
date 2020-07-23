@@ -25,6 +25,8 @@ Your function should not accept any arguments<br>and should reference the global
 
 [Solution](https://github.com/HawksSpawn/introduction-to-python-programming-solutions/blob/master/assignments/Lesson_6/password_generator.py)
 
+<br>
+
 ## Quiz
 
 **Question:** Create a function that opens the [`flowers.txt`](https://github.com/HawksSpawn/introduction-to-python-programming-solutions/blob/master/assignments/Lesson_6/flowers.txt), 
