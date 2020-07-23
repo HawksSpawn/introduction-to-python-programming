@@ -3,11 +3,11 @@ from random import choice
 word_file = "words.txt"
 word_list = []
 
-with open(word_file,'r') as words:
+with open(word_file, 'r') as words:
 	for line in words:
-		# remove white space and make everything lowercase
+        # remove white space and make everything lowercase
 		word = line.strip().lower()
-		# don't include words that are too long or too short
+        # don't include words that are too long or too short
 		if 3 < len(word) < 8:
 			word_list.append(word)
 
