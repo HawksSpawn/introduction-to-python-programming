@@ -13,6 +13,7 @@ with open(word_file,'r') as words:
 
 def generate_password():
     """Return a string consisting of three random words concatenated together without spaces."""
+    
     password = [choice(word_list) for i in range(3)]
     return ("").join(password)
 
