@@ -1,4 +1,4 @@
-# Introduction to Python Programming - Solutions
+# Introduction to Python Programming
 
 My solutions for **Introduction to Python Programming** course's assignments.
 
