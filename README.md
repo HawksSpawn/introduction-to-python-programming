@@ -43,8 +43,8 @@ find and use modules in the Python Standard Library and other third-party librar
 
 <br>
 
-<!-- Icons made by [Freepik](http://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/) -->
-<img src="https://www.flaticon.com/svg/static/icons/svg/2099/2099103.svg" height="14" width="14">&nbsp; LESSON 1
+<!-- <a href="https://www.flaticon.com/free-icons/list" title="list icons">List icons created by Freepik - Flaticon</a> -->
+<img src="list_icon.png" height="14" width="14">&nbsp; LESSON 1
 
 ### Why Python Programming
 
@@ -53,8 +53,8 @@ find and use modules in the Python Standard Library and other third-party librar
 
 <br>
 
-<!-- Icons made by [Freepik](http://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/) -->
-<img src="https://www.flaticon.com/svg/static/icons/svg/2099/2099103.svg" height="14" width="14">&nbsp; LESSON 2
+<!-- <a href="https://www.flaticon.com/free-icons/list" title="list icons">List icons created by Freepik - Flaticon</a> -->
+<img src="list_icon.png" height="14" width="14">&nbsp; LESSON 2
 
 ### Data Types and Operators
 
@@ -64,8 +64,8 @@ find and use modules in the Python Standard Library and other third-party librar
 
 <br>
 
-<!-- Icons made by [Freepik](http://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/) -->
-<img src="https://www.flaticon.com/svg/static/icons/svg/2099/2099103.svg" height="14" width="14">&nbsp; LESSON 3
+<!-- <a href="https://www.flaticon.com/free-icons/list" title="list icons">List icons created by Freepik - Flaticon</a> -->
+<img src="list_icon.png" height="14" width="14">&nbsp; LESSON 3
 
 ### Control Flow
 
@@ -75,8 +75,8 @@ find and use modules in the Python Standard Library and other third-party librar
 
 <br>
 
-<!-- Icons made by [Freepik](http://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/) -->
-<img src="https://www.flaticon.com/svg/static/icons/svg/2099/2099103.svg" height="14" width="14">&nbsp; LESSON 4
+<!-- <a href="https://www.flaticon.com/free-icons/list" title="list icons">List icons created by Freepik - Flaticon</a> -->
+<img src="list_icon.png" height="14" width="14">&nbsp; LESSON 4
 
 ### Functions
 
@@ -86,8 +86,8 @@ find and use modules in the Python Standard Library and other third-party librar
 
 <br>
 
-<!-- Icons made by [Freepik](http://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/) -->
-<img src="https://www.flaticon.com/svg/static/icons/svg/2099/2099103.svg" height="14" width="14">&nbsp; LESSON 5
+<!-- <a href="https://www.flaticon.com/free-icons/list" title="list icons">List icons created by Freepik - Flaticon</a> -->
+<img src="list_icon.png" height="14" width="14">&nbsp; LESSON 5
 
 ### Scripting
 
